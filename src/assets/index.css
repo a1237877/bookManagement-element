@@ -1,0 +1,53 @@
+.container {
+    flex: 1;
+    width: 79%;
+    margin-left: 243px;
+    padding: 20px;
+    margin-bottom: 20px;
+    overflow: hidden;
+    background-color: #fff;
+  }
+  .title {
+    font-weight: 500;
+    font-size: 18px;
+    float: left;
+  }
+  .form-content {
+    margin-top: 45px;
+    padding-left: 30px;
+    font-size: 14px;
+  }
+  .formItem {
+    height: 40px;
+    margin-top: 15px;
+  }
+  .input-title {
+    float: left;
+    text-align: right;
+    width: 60px;
+    margin-top: 10px;
+    margin-right: 10px;
+    
+  }
+  .el-col-6 {
+    width: 400px !important;
+  }
+  .el-autocomplete {
+    display: block !important;
+    margin-left: 15px;
+  }
+  .el-autocomplete .inline-input {
+    width: 100%;
+  }
+  .el-radio {
+    margin-top: 15px;
+    margin-left: 15px;
+  }
+  .el-input {
+    width: 400px !important;
+    margin-left: 15px;
+  }
+  .el-button{
+      margin: 20px 85px;
+      
+  }
